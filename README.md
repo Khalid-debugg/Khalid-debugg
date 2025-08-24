@@ -6,7 +6,7 @@ Software Engineer · Front-End Focused
 
 I'm a software engineer with a degree in Computer Science, and a strong passion for front-end development. Over the years, I've built hands-on experience through internships, freelance work, side projects, and open-source contributions. I enjoy crafting clean, user-friendly interfaces and solving complex problems that make people's lives easier. Whether it's developing a sleek UI or diving deep into logic-heavy challenges, I strive to build software that's both beautiful and impactful.
 
-* 🌍  I'm based in Nasr city, Egypt
+* 🌍  I'm based in Cairo, Egypt
 * 🖥️  See my portfolio at [Khalid-debugg.github.io](http://khalid-debugg.github.io/)
 * ✉️  You can contact me at [khalidsherif.dev@gmail.com](mailto:khalidsherif.dev@gmail.com)
 
